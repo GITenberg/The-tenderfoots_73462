@@ -1,0 +1,38 @@
+_repo: The-tenderfoots_73462
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Lynde
+description: '"Copyright, 1925, by Street & Smith, Inc., under the title ''The prisoner
+  and the play boy''"--Title page verso.'
+gutenberg_issued: '2024-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73462'
+  lccn: '27001238'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.b3325193&view=1up&seq=24&skin=2021
+pgterms:marc905: 20220304155400lynde
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Railroad stories'
+- !lcsh 'Colorado -- Gold discoveries -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The tenderfoots
+url: http://www.gutenberg.org/ebooks/73462
